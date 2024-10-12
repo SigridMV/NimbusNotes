@@ -20,7 +20,7 @@ This app allows users to:
 
 ## Demo Video 🎥
 
-You can check out the demonstration video at the following link: [Software Demo Video]()
+You can check out the demonstration video at the following link: [Software Demo Video](https://www.loom.com/share/4c78918903bc49268a58e34487923bd6?sid=62215e05-d92b-4a73-a033-f445e0bb5b53)
 
 # Development Environment
 
